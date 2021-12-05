@@ -1,4 +1,4 @@
-# machineLearningProjects
+# Machine Learning Projects :
  A compilation of small machine learning projects I did when I started learning about machine learning.
   1) - Student Performance : Predict student grade using linear regression
      - Dataset : https://archive.ics.uci.edu/ml/datasets/student+performance
