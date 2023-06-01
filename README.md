@@ -6,4 +6,3 @@ A compilation of small machine learning projects for beginner using sklearn modu
      Dataset : https://archive.ics.uci.edu/ml/datasets/car+evaluation 
   3) Cancer Classification using Support Vector Machine
      Dataset : sklearn.load_breast_cancer()
-  4) 
